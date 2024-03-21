@@ -12,6 +12,9 @@ BOT_NAME = "exercises"
 SPIDER_MODULES = ["exercises.spiders"]
 NEWSPIDER_MODULE = "exercises.spiders"
 
+# Log level
+LOG_LEVEL = "WARNING"
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "exercises (+http://www.yourdomain.com)"
