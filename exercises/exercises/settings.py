@@ -13,7 +13,7 @@ SPIDER_MODULES = ["exercises.spiders"]
 NEWSPIDER_MODULE = "exercises.spiders"
 
 # Log level
-LOG_LEVEL = "WARNING"
+LOG_LEVEL = "INFO"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
